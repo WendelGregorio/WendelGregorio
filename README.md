@@ -3,11 +3,12 @@ Currently i'm working at B.GROB do Brasil as Systems Developer Intern
 <br><br>
 [<img align="left" alt="Bgrob" src="https://www.grobgroup.com/fileadmin/templates/images/grob_logo.svg" width="192px">](https://www.grobgroup.com/) 
 <br><br>
-<br>
+
+<br><br>
 I’m interested in Software Engineering and Data Science
 <br>
 I’m currently learning Python, C++ & JavaScript
-
+<br><br>
 <div align="center">
   <a href="https://github.com/wendelgregorio">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
