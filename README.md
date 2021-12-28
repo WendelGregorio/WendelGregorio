@@ -1,7 +1,12 @@
-- 👋 Hi, I’m Wendel Gregorio
-- 💻 Currently i'm working at B.GROB do Brasil as Systems Developer Intern
-- 👀 I’m interested in Software Engineering and Data Science
-- 🌱 I’m currently learning Python, C++ & JavaScript
+# Hi Dev! I'm Wendel Gregorio <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Currently i'm working at B.GROB do Brasil as Systems Developer Intern
+<br><br>
+[<img align="left" alt="Bgrob" src="https://www.grobgroup.com/fileadmin/templates/images/grob_logo.svg" width="192px">](https://www.grobgroup.com/) 
+<br><br>
+<br>
+I’m interested in Software Engineering and Data Science
+<br>
+I’m currently learning Python, C++ & JavaScript
 
 <div align="center">
   <a href="https://github.com/wendelgregorio">
@@ -19,6 +24,8 @@
 </div>
 <br><br>
 <div> 
+  Contact:
+  <br>
   <a href="https://www.instagram.com/gregorioswendel/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:contact.wendelg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-greg%C3%B3rio-da-silva-1b5a801b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
