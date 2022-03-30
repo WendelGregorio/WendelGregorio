@@ -7,7 +7,7 @@ Currently i'm working at B.GROB do Brasil as Systems Developer Intern
 <br><br>
 I’m interested in Software Engineering and Data Science
 <br>
-I’m currently learning Python, C++ & JavaScript
+I’m currently learning Python & JavaScript
 <br><br>
 <div align="center">
   <a href="https://github.com/wendelgregorio">
