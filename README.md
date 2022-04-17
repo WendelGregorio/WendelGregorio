@@ -26,8 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" /></p>
 
 <div> 
-  <a href="https://www.linkedin.com/in/wendel-greg%C3%B3rio-da-silva-1b5a801b9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
   ![Snake animation](https://github.com/wendelgregorio/wendelgregorio/blob/output/github-contribution-grid-snake.svg)
  
 </div>
