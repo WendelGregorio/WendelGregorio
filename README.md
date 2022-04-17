@@ -24,8 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&locale=en" alt="wendelgregorio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" /></p>
-
-<div> 
-  ![Snake animation](https://github.com/wendelgregorio/wendelgregorio/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
