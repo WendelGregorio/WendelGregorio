@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **constact.wendelg@gmail.com**
 
-- 📄 Know about my experiences [Im working in a intranet website update on B.GROB do Brasil](Im working in a intranet website update on B.GROB do Brasil)
+- 📄 Know about my experiences Im working in a intranet website update on B.GROB do Brasil, Current im a intern, butt, every week i do some project by my self, to grow more.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
