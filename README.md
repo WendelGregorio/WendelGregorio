@@ -25,7 +25,7 @@
 
 <div>
  <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" width="48"/>
   <img src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&locale=en" alt="wendelgregorio" />
  </p>
 </div>
