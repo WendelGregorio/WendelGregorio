@@ -25,8 +25,8 @@
 
 <div>
  <p>
-  <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" />
-  <img align=right src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&locale=en" alt="wendelgregorio" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&locale=en" alt="wendelgregorio" />
  </p>
 </div>
 
