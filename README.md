@@ -25,6 +25,6 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=wendelgregorio&show_icons=true&locale=en" alt="wendelgregorio" /></p>
 <div align=center>
- teste
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendelgregorio&show_icons=true&locale=en&layout=compact" alt="wendelgregorio" /></p>
 <div>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wendelgregorio&show_icons=true&locale=en&layout=compact" alt="wendelgregorio" /></p>
+
