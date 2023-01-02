@@ -25,6 +25,6 @@
 
 <div align=center>
  <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" width="350"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wendelgregorio&" alt="wendelgregorio" width="550"/>
  </p>
 </div>
