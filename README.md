@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **contact.wendelg@gmail.com**
 
-- 📄 Know about my experiences I'm working on updating the B.GROB do Brasil intranet site, I'm currently an intern, but every week I do some project on my own, to increase my knowledge and skills.
+- 📄 Know about my experiences I'm working on updating the B.GROB do Brasil intranet site, every week I do some project on my own, to increase my knowledge and skills.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
