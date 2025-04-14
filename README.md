@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wendelgregorio&label=Profile%20views&color=0e75b6&style=flat" alt="wendelgregorio" /> </p>
 
-- 🌱 I’m currently working with **ASP, .NET, VB.NET, NodeJS, Typescript, NestJS, React, NextJS**
+- 🌱 I’m currently working with **.NET, VB.NET, Typescript, NestJS, NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/WendelGregorio?tab=repositories](https://github.com/WendelGregorio?tab=repositories)
 
