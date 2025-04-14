@@ -17,8 +17,8 @@
 </p>
 
 # 🚀 My skills
-[![My Skills](https://skillicons.dev/icons?i=nestjs,docker,dotnet,ts,js,prisma,nodejs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,docker,dotnet,ts,prisma)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,linux,aws,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,sql,linux,git,github)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css,bootstrap,figma,electron)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,bootstrap,figma,electron)](https://skillicons.dev)
